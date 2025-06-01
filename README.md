@@ -157,6 +157,8 @@ p.note { display: none; }
 <a href="20250601_008.JPG" target="_blank"><img src="20250601_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250601_009.JPG" target="_blank"><img src="20250601_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250601_010.JPG" target="_blank"><img src="20250601_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一枚だけ、スーパーのまん丸ダリア</span></h2>
 <a href="20250601_011.JPG" target="_blank"><img src="20250601_011.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">土曜日のベルモールは大混雑</span></h2>
